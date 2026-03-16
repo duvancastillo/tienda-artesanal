@@ -1,5 +1,5 @@
 import { useContext, useState } from "react";
-import { CartContext } from "../context/CartContext";
+import { CartContext } from "../context/cartContext";
 import Toast from "../components/Toast";
 
 function Productos({ productos }) {
